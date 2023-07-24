@@ -1,7 +1,7 @@
 ---
 name: 'FEATURE '
 about: FEATURE 작업 사항 입력
-title: "[ISSUE]"
+title: "[FEATURE]"
 labels: enhancement
 assignees: ''
 
