@@ -8,11 +8,7 @@ assignees: ''
 ---
 
 ## Description
-기능 오류
+- [ ] bugs
 
-## Todo
-- [ ] todo1 
-- [ ] todo2
-
-## ETC
-수정 방법
+## Solution
+-
